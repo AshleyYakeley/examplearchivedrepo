@@ -1,2 +1,2 @@
 # examplearchivedrepo
-Example of an archived GitHub repo.
+This is an example of an archived GitHub repo.
